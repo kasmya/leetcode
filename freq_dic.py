@@ -64,3 +64,7 @@ class Solution:
 
         return True
 
+'''
+Set → “Have I seen this before?” / membership / duplicates.
+Dictionary → “How many times did I see this?” / frequency.
+'''
