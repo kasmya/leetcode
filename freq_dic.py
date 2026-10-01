@@ -65,6 +65,6 @@ class Solution:
         return True
 
 '''
-Set → “Have I seen this before?” / membership / duplicates.
-Dictionary → “How many times did I see this?” / frequency.
+Set → “Have I seen this before?” / membership / duplicates. "Have I seen 3?"
+Dictionary → “How many times did I see this?” / frequency. "How many times have I seen 3?"
 '''
