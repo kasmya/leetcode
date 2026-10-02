@@ -26,3 +26,5 @@ sum correct → found it
 
 This is the two-pointer pattern I want you to understand before returning to Move Zeroes.
 '''
+
+# Don't ask "Why do I need two pointers?" first. Ask "Do I need to track two different positions?"
